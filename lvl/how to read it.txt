@@ -1,0 +1,10 @@
+* -> empty
+0 -> wall
+any int != 0 -> head of the snake with it's défault size
++ -> power up for the snake (to get bigger)
+S -> spawn of the guy (let's name him Saidijo)
+G -> the goal of Saidijo
+D -> Anything that kills Saidijo (spikes, lava, ...we'll choose later)
+
+Snake dies when it hits any wall, or itself, or D (?)
+Saidijo can uses + as a plateform. It forces the player to use snake to open som access to Saidijo, but making him bigger so harder for the player to keep alive.

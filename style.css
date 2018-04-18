@@ -1,0 +1,26 @@
+@font-face
+{
+    font-family: copse;
+    src: url("Copse-Regular.ttf");
+}
+
+body
+{
+	text-align:center;
+	font-family:copse;
+	background-color:black;
+}
+
+#cvs
+{
+}
+
+h1
+{
+	color:white;
+}
+
+#hid
+{
+	display:none;
+}
